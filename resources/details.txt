@@ -1,6 +1,6 @@
 Track, do stats, and improve your running all through a nice UI.
 
-ForRunners is an personal run-tracking app that respects your privacy.
+ForRunners is a personal run-tracking app that respects your privacy.
 
 ForRunners uses the your phone's GPS to track your run.
 Speech synthesis can announce distance, speed, heart rate during your run.
